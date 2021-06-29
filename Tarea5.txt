@@ -1,0 +1,12 @@
+Organización:
+
+Es un sistema conformado principalmente para llevar a cabo un objetivo o una meta.
+En ocasiones pueden llegar a estar conformados por otros subsistemas que ayudarán 
+con tareas específicas para un mejor funcionamiento del mismo.
+
+Tomemos el ejemplo de una banda musical, tienen el objetivo de crear musica, sin embargo
+para llevar a cabo ese objetivo es necesrio que cada uno de los integrantes sepa tocar un
+instrumento, además de crear armonía y ritmos con ellos. Cada uno conforma una parte del
+sistema musical, y como una subdivisión podríamos llegar a tomar en cuenta los equalizadores
+los cuales ayudan a que este sistema tenga una mejor equalización de sonido al mejorar
+el mismo y hacerlo más apetecible al oído de sus fans.
